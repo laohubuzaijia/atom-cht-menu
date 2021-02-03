@@ -81,3 +81,4 @@
   * https://atom.io/packages/localization
   * https://github.com/rschiang
 * 對應 Atom 1.0.0 版。
+#1
